@@ -1,0 +1,9 @@
+[
+  {
+    "model": "flagChecker.flag",
+    "pk": "1",
+    "fields": {
+      "flag": "testflag"
+    }
+  }
+]
